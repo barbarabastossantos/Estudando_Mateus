@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dead2126-e29e-497d-b369-d09dd33fc99e" name="Changes" comment="Merge remote-tracking branch 'origin/main'">
-      <change afterPath="$PROJECT_DIR$/impar.py" afterDir="false" />
+    <list default="true" id="dead2126-e29e-497d-b369-d09dd33fc99e" name="Changes" comment="Merge remote-tracking branch 'origin/main'&#10;viagem">
+      <change afterPath="$PROJECT_DIR$/viagem.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,17 +50,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.adivinha.executor": "Run",
-    "Python.condicao_composta.executor": "Run",
-    "Python.impar.executor": "Run",
-    "Python.projeto2.executor": "Run",
-    "Python.velocidade.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.adivinha.executor&quot;: &quot;Run&quot;,
+    &quot;Python.condicao_composta.executor&quot;: &quot;Run&quot;,
+    &quot;Python.impar.executor&quot;: &quot;Run&quot;,
+    &quot;Python.projeto2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.velocidade.executor&quot;: &quot;Run&quot;,
+    &quot;Python.viagem.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -157,7 +158,23 @@
       <option name="project" value="LOCAL" />
       <updated>1735144718715</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Merge remote-tracking branch 'origin/main'&#10;impar ou par">
+      <option name="closed" value="true" />
+      <created>1735156800228</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1735156800228</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Merge remote-tracking branch 'origin/main'&#10;viagem">
+      <option name="closed" value="true" />
+      <created>1735158432031</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1735158432031</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -180,6 +197,9 @@
     <MESSAGE value="estudo" />
     <MESSAGE value="estrutura condicionada aninhada" />
     <MESSAGE value="Merge remote-tracking branch 'origin/main'" />
-    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/main'" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/main'&#10;viagem calculo" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/main'&#10;impar ou par" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/main'&#10;viagem" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/main'&#10;viagem" />
   </component>
 </project>
