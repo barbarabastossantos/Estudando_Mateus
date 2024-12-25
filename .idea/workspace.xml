@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dead2126-e29e-497d-b369-d09dd33fc99e" name="Changes" comment="comentando o codigo da estrutura condicional" />
+    <list default="true" id="dead2126-e29e-497d-b369-d09dd33fc99e" name="Changes" comment="estudo" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,6 +18,12 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -89,7 +95,39 @@
       <option name="project" value="LOCAL" />
       <updated>1735128493635</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="MEDIA DO SEMESTRE">
+      <option name="closed" value="true" />
+      <created>1735132562121</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1735132562121</updated>
+    </task>
+    <task id="LOCAL-00005" summary="MEDIA DO SEMESTRE">
+      <option name="closed" value="true" />
+      <created>1735132763395</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1735132763395</updated>
+    </task>
+    <task id="LOCAL-00006" summary="AGORA VAI">
+      <option name="closed" value="true" />
+      <created>1735132777334</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1735132777334</updated>
+    </task>
+    <task id="LOCAL-00007" summary="estudo">
+      <option name="closed" value="true" />
+      <created>1735133243427</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1735133243427</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -106,6 +144,9 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Estudando c/ Mateus" />
     <MESSAGE value="comentando o codigo da estrutura condicional" />
-    <option name="LAST_COMMIT_MESSAGE" value="comentando o codigo da estrutura condicional" />
+    <MESSAGE value="MEDIA DO SEMESTRE" />
+    <MESSAGE value="AGORA VAI" />
+    <MESSAGE value="estudo" />
+    <option name="LAST_COMMIT_MESSAGE" value="estudo" />
   </component>
 </project>
